@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Item Name"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/item_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/item_fee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fee"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/item_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/item_time_period"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Time Period"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/number_of_interested_users"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number of interested users"
+        android:textSize="14sp" />
+
+</LinearLayout>

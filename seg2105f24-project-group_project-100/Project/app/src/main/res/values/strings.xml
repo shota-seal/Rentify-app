@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    //Database address names
+    <string name="database_user_address">users</string>
+    <string name="database_categories_address">categories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LongClickWarning">Long click on an item to edit or delete it</string>
+</resources>
